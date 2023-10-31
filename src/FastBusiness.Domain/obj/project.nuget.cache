@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jjEdt86jNkAalFt0QmheePJyLJhPrPG0hicfVpb7y44Hud8de09iaJdBWG9COP8nN1aobC0N7Yr0wj6C+Sqssw==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Fast-Business\\src\\FastBusiness.Domain\\FastBusiness.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minhvu\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\minhvu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\minhvu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
